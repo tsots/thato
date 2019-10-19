@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e1e1e1;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #e1e1e1;
+      }
+    </style>
+  </defs>
+  <g id="logo-smedium" transform="translate(-4 -4)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M29.095,70.851V48.67L51.36,20.605h3.864L32.2,49.762V73.792l-14.7.085v-58.9h3.026V70.851Zm11.594-22.6L55.73,68.668H51.948L36.825,48.248l23.7-30.164H49.6L26.236,48V68.668H23.214V46.989L48.167,14.975h18.57ZM29.009,18.084H26.236v20l-3.022,3.864V14.975H32.12V30.6l-3.111,3.866ZM44.3,48.584l1.933-2.436L66.822,73.792H48.588L35.061,55.56V50.517L50.1,70.851H60.771Z" transform="translate(10.885 8.62)"/>
+    <path id="Path_25" data-name="Path 25" class="cls-2" d="M50,0A50,50,0,1,1,0,50,50,50,0,0,1,50,0Z" transform="translate(4.5 4.5)"/>
+  </g>
+</svg>
