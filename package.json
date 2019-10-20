@@ -1,0 +1,23 @@
+{
+  "name": "thato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://tsots.github.io/thato",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsots/thato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsots/thato/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
